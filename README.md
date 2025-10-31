@@ -133,7 +133,7 @@ Analyzed 6 months of manufacturing data (5,400 records) to identify defect patte
 
 ## About This Project
 
-**Created by:** [Your Name]  
+**Created by:** Arinze Amobi  
 **Date:** October 2025  
 **Purpose:** Entry-level data analyst portfolio demonstration  
 **Dataset:** Synthetic manufacturing data (6 months, 3 lines, 2 shifts, 3 products, 5 defect types)
@@ -142,11 +142,12 @@ Analyzed 6 months of manufacturing data (5,400 records) to identify defect patte
 
 ## Contact
 
-**LinkedIn:** [Your LinkedIn URL]  
-**GitHub:** [Your GitHub URL]  
-**Email:** [Your Email]  
-**Portfolio:** [Your Portfolio Website]
+*LinkedIn:** https://www.linkedin.com/in/arinze-amobi101
+**GitHub:** https://github.com/arinzeamobi
+**Email:** ArinzeAmobi@yahoo.com 
+**Portfolio:** https://github.com/arinzeamobi/factory-defects-dashboard
 
 ---
+
 
 *This project demonstrates end-to-end analytical capabilities from data exploration through actionable business recommendations.*
